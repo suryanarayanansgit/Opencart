@@ -1,0 +1,120 @@
+2025-12-08 23:08:50 DEBUG TestNG:82 - suiteXmlPath: "D:\java\workspaceforQA\opencart\master.xml"
+2025-12-08 23:09:45 DEBUG TestNG:82 - suiteXmlPath: "D:\java\workspaceforQA\opencart\testng.xml"
+2025-12-08 23:09:45 INFO  Utils:112 - [TestNG] Running:
+  D:\java\workspaceforQA\opencart\testng.xml
+
+2025-12-08 23:09:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:09:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:11:02 DEBUG TestNG:82 - suiteXmlPath: "D:\java\workspaceforQA\opencart\grouping.xml"
+2025-12-08 23:11:03 INFO  Utils:112 - [TestNG] Running:
+  D:\java\workspaceforQA\opencart\grouping.xml
+
+2025-12-08 23:26:39 DEBUG TestNG:82 - suiteXmlPath: "D:\java\workspaceforQA\opencart\testng.xml"
+2025-12-08 23:26:40 INFO  Utils:112 - [TestNG] Running:
+  D:\java\workspaceforQA\opencart\testng.xml
+
+2025-12-08 23:26:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:26:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:26:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:28:29 DEBUG TestNG:82 - suiteXmlPath: "D:\java\workspaceforQA\opencart\testng.xml"
+2025-12-08 23:31:59 DEBUG TestNG:82 - suiteXmlPath: "D:\java\workspaceforQA\opencart\testng.xml"
+2025-12-08 23:31:59 INFO  Utils:112 - [TestNG] Running:
+  D:\java\workspaceforQA\opencart\testng.xml
+
+2025-12-08 23:32:02 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:02 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 23:32:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
