@@ -49,9 +49,12 @@ public class BaseClass {
 		p=new Properties();	
 		p.load(file);
 		logger =LogManager.getLogger(this.getClass());
-		DesiredCapabilities cap= new DesiredCapabilities();
 
 		
+		
+		//	DesiredCapabilities cap= new DesiredCapabilities();
+
+	/*	
 		if(p.getProperty("execution_env").equalsIgnoreCase("remote")){
 			
 			if(os.equalsIgnoreCase("windows")) {
@@ -102,14 +105,36 @@ public class BaseClass {
 		}
 
 		//driver.manage().deleteAllCookies();
+		*/
 		
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		try {
+		
+		switch(br.toLowerCase())
+		{
+		case "chrome":
+		driver=	new ChromeDriver();
+			break;
+		case "firefox":
+			driver=new FirefoxDriver();
+			break;
+		case "edge":
+			driver=new EdgeDriver();
+			break;
+			default :System.out.println("enter the valid ");
+				break;
+		}
+		}
+		catch( Exception e)
+		{	System.out.println(e.getStackTrace());
+		}
+			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		
 		driver.get(p.getProperty("AppUrl"));
 
 		driver.manage().window().maximize();
-	}
+
 	
-	
+}
 
 	//@AfterMethod(groups={"Master","Sanity","Regression"})
 	public void scrnshot() throws Exception {

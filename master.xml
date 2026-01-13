@@ -14,6 +14,7 @@
     <classes>
       <class name="testclasses.TC_001_Account_registration"/>
       <class name="testclasses.TC_002_Login_validAccount" />
+  
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
