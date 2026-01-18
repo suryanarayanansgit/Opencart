@@ -19,6 +19,16 @@ WebElement drp_reg;
 @FindBy(xpath="//li//a[contains(.,'Login')]")
 WebElement drp_logn;
 
+
+//search field
+@FindBy(xpath="//div[@id='search']/child::input[@name='search']")
+WebElement search_fld;
+
+
+@FindBy(xpath="//span[@class='input-group-btn']/child::button[@type=\"button\"]")
+WebElement search_btn;
+
+
 //ActionMethod
 
 public void My_Acc_slct()
@@ -32,4 +42,12 @@ public void login_slct() {
 	drp_acc.click();
 	drp_logn.click();
 }
+
+public void search_fxn(String data) {
+	search_fld.sendKeys(data);
+	search_btn.click();
+	System.out.println();
+}
+
+
 }

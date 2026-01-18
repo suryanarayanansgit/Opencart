@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testclasses.TC_001_Account_registration">
+      <class name="testclasses.TC_005_compare_the_product_1">
         <methods>
-          <include name="taerdown"/>
           <include name="Setup"/>
-          <include name="register_Acct"/>
+          <include name="compare_"/>
         </methods>
-      </class> <!-- testclasses.TC_001_Account_registration -->
+      </class> <!-- testclasses.TC_005_compare_the_product_1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

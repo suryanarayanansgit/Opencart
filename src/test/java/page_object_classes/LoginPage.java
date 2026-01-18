@@ -43,6 +43,15 @@ public class LoginPage extends BasePage {
 		pswd_fld.sendKeys(pass);
 		
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	public void clck_login_btn() {
 	// using javascriptexecutor
 		//use normal click

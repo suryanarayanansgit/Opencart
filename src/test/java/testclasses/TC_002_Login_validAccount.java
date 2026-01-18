@@ -11,7 +11,7 @@ import testbase.BaseClass;
 
 public class TC_002_Login_validAccount extends BaseClass{
 
-	@Test(groups={"Master","Regression"})
+	@Test(groups={"Master","Sanity","Regression"})
 	public void login_acc() {
 	try{
 		HomePage hp= new HomePage(driver);
