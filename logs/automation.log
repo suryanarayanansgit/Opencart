@@ -44,3 +44,16 @@
 2026-01-19 00:12:29 INFO  Utils:112 - [TestNG] Running:
   D:\java\workspaceforQA\opencart\testngsrch.xml
 
+2026-01-19 00:32:31 DEBUG TestNG:82 - suiteXmlPath: "D:\java\workspaceforQA\opencart\master.xml"
+2026-01-19 00:32:31 INFO  Utils:112 - [TestNG] Running:
+  D:\java\workspaceforQA\opencart\master.xml
+
+2026-01-19 00:32:50 INFO  TC_002_Login_validAccount:21 - ****--------log started---------****
+2026-01-19 00:32:51 INFO  TC_002_Login_validAccount:24 - ***--entering email and password as a credential----***
+2026-01-19 00:32:54 INFO  TC_002_Login_validAccount:28 - **---login button clicked--**
+2026-01-19 00:32:55 INFO  TC_002_Login_validAccount:31 - ***---MY Account page opened----**
+2026-01-19 00:32:55 INFO  TC_002_Login_validAccount:33 - ***-----------log out performed--------------**
+2026-01-19 00:33:02 INFO  TC_001_Account_registration:18 - ****--------log started---------****
+2026-01-19 00:33:03 INFO  TC_001_Account_registration:20 - ****--------My_Account_slct---------****
+2026-01-19 00:33:05 INFO  TC_001_Account_registration:23 - ****--------Register performed---------****
+2026-01-19 00:33:05 INFO  TC_001_Account_registration:51 - ****-------registration is finished -------****

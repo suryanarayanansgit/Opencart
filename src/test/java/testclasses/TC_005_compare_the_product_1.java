@@ -12,7 +12,7 @@ import testbase.BaseClass;
 public class TC_005_compare_the_product_1 extends BaseClass {
 
 	
-	@Test(groups= {"Sanity"})
+	@Test(groups= {"Sanity","Master"})
 	
 public void compare_() throws Throwable {
 	HomePage hp= new HomePage(driver);

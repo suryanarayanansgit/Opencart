@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-19T00:12:29 IST" name="Suite" finished-at="2026-01-19T00:12:37 IST" duration-ms="8162">
+  <suite started-at="2026-01-19T00:32:31 IST" name="Suite" finished-at="2026-01-19T00:33:08 IST" duration-ms="37080">
     <groups>
       <group name="Master">
-        <method signature="TC_004_SearchFunction.SearchData()[pri:0, instance:testclasses.TC_004_SearchFunction@3b7ff809]" name="SearchData" class="testclasses.TC_004_SearchFunction"/>
+        <method signature="TC_002_Login_validAccount.login_acc()[pri:0, instance:testclasses.TC_002_Login_validAccount@72758afa]" name="login_acc" class="testclasses.TC_002_Login_validAccount"/>
+        <method signature="TC_004_SearchFunction.SearchData()[pri:0, instance:testclasses.TC_004_SearchFunction@fb9c7aa]" name="SearchData" class="testclasses.TC_004_SearchFunction"/>
+        <method signature="TC_005_compare_the_product_1.compare_()[pri:0, instance:testclasses.TC_005_compare_the_product_1@4c398c80]" name="compare_" class="testclasses.TC_005_compare_the_product_1"/>
+        <method signature="TC_001_Account_registration.register_Acct()[pri:1, instance:testclasses.TC_001_Account_registration@1cbf6e72]" name="register_Acct" class="testclasses.TC_001_Account_registration"/>
       </group> <!-- Master -->
       <group name="Sanity">
-        <method signature="TC_004_SearchFunction.SearchData()[pri:0, instance:testclasses.TC_004_SearchFunction@3b7ff809]" name="SearchData" class="testclasses.TC_004_SearchFunction"/>
+        <method signature="TC_002_Login_validAccount.login_acc()[pri:0, instance:testclasses.TC_002_Login_validAccount@72758afa]" name="login_acc" class="testclasses.TC_002_Login_validAccount"/>
+        <method signature="TC_004_SearchFunction.SearchData()[pri:0, instance:testclasses.TC_004_SearchFunction@fb9c7aa]" name="SearchData" class="testclasses.TC_004_SearchFunction"/>
+        <method signature="TC_005_compare_the_product_1.compare_()[pri:0, instance:testclasses.TC_005_compare_the_product_1@4c398c80]" name="compare_" class="testclasses.TC_005_compare_the_product_1"/>
+        <method signature="TC_001_Account_registration.register_Acct()[pri:1, instance:testclasses.TC_001_Account_registration@1cbf6e72]" name="register_Acct" class="testclasses.TC_001_Account_registration"/>
       </group> <!-- Sanity -->
       <group name="Regression">
-        <method signature="TC_004_SearchFunction.SearchData()[pri:0, instance:testclasses.TC_004_SearchFunction@3b7ff809]" name="SearchData" class="testclasses.TC_004_SearchFunction"/>
+        <method signature="TC_002_Login_validAccount.login_acc()[pri:0, instance:testclasses.TC_002_Login_validAccount@72758afa]" name="login_acc" class="testclasses.TC_002_Login_validAccount"/>
+        <method signature="TC_004_SearchFunction.SearchData()[pri:0, instance:testclasses.TC_004_SearchFunction@fb9c7aa]" name="SearchData" class="testclasses.TC_004_SearchFunction"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2026-01-19T00:12:29 IST" name="Test" finished-at="2026-01-19T00:12:37 IST" duration-ms="8162">
-      <class name="testclasses.TC_004_SearchFunction">
-        <test-method is-config="true" signature="Setup(java.lang.String,java.lang.String)[pri:0, instance:testclasses.TC_004_SearchFunction@3b7ff809]" started-at="2026-01-19T00:12:30 IST" name="Setup" finished-at="2026-01-19T00:12:34 IST" duration-ms="4048" status="PASS">
+    <test started-at="2026-01-19T00:32:31 IST" name="Test" finished-at="2026-01-19T00:33:08 IST" duration-ms="37080">
+      <class name="testclasses.TC_005_compare_the_product_1">
+        <test-method is-config="true" signature="Setup(java.lang.String,java.lang.String)[pri:0, instance:testclasses.TC_005_compare_the_product_1@4c398c80]" started-at="2026-01-19T00:32:39 IST" name="Setup" finished-at="2026-01-19T00:32:43 IST" duration-ms="3459" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -32,11 +39,89 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="SearchData()[pri:0, instance:testclasses.TC_004_SearchFunction@3b7ff809]" started-at="2026-01-19T00:12:34 IST" name="SearchData" finished-at="2026-01-19T00:12:34 IST" duration-ms="656" status="PASS">
+        <test-method signature="compare_()[pri:0, instance:testclasses.TC_005_compare_the_product_1@4c398c80]" started-at="2026-01-19T00:32:43 IST" name="compare_" finished-at="2026-01-19T00:32:44 IST" duration-ms="920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compare_ -->
+        <test-method is-config="true" signature="taerdown()[pri:0, instance:testclasses.TC_005_compare_the_product_1@4c398c80]" started-at="2026-01-19T00:32:44 IST" name="taerdown" finished-at="2026-01-19T00:32:47 IST" duration-ms="3270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- taerdown -->
+      </class> <!-- testclasses.TC_005_compare_the_product_1 -->
+      <class name="testclasses.TC_002_Login_validAccount">
+        <test-method is-config="true" signature="Setup(java.lang.String,java.lang.String)[pri:0, instance:testclasses.TC_002_Login_validAccount@72758afa]" started-at="2026-01-19T00:32:47 IST" name="Setup" finished-at="2026-01-19T00:32:50 IST" duration-ms="3511" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="login_acc()[pri:0, instance:testclasses.TC_002_Login_validAccount@72758afa]" started-at="2026-01-19T00:32:50 IST" name="login_acc" finished-at="2026-01-19T00:32:55 IST" duration-ms="4881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_acc -->
+        <test-method is-config="true" signature="taerdown()[pri:0, instance:testclasses.TC_002_Login_validAccount@72758afa]" started-at="2026-01-19T00:32:55 IST" name="taerdown" finished-at="2026-01-19T00:32:59 IST" duration-ms="3234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- taerdown -->
+      </class> <!-- testclasses.TC_002_Login_validAccount -->
+      <class name="testclasses.TC_001_Account_registration">
+        <test-method is-config="true" signature="Setup(java.lang.String,java.lang.String)[pri:0, instance:testclasses.TC_001_Account_registration@1cbf6e72]" started-at="2026-01-19T00:32:59 IST" name="Setup" finished-at="2026-01-19T00:33:02 IST" duration-ms="3482" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="register_Acct()[pri:1, instance:testclasses.TC_001_Account_registration@1cbf6e72]" started-at="2026-01-19T00:33:02 IST" name="register_Acct" finished-at="2026-01-19T00:33:05 IST" duration-ms="2740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_Acct -->
+        <test-method is-config="true" signature="taerdown()[pri:0, instance:testclasses.TC_001_Account_registration@1cbf6e72]" started-at="2026-01-19T00:33:05 IST" name="taerdown" finished-at="2026-01-19T00:33:08 IST" duration-ms="3321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- taerdown -->
+      </class> <!-- testclasses.TC_001_Account_registration -->
+      <class name="testclasses.TC_004_SearchFunction">
+        <test-method is-config="true" signature="Setup(java.lang.String,java.lang.String)[pri:0, instance:testclasses.TC_004_SearchFunction@fb9c7aa]" started-at="2026-01-19T00:32:31 IST" name="Setup" finished-at="2026-01-19T00:32:35 IST" duration-ms="4056" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SearchData()[pri:0, instance:testclasses.TC_004_SearchFunction@fb9c7aa]" started-at="2026-01-19T00:32:35 IST" name="SearchData" finished-at="2026-01-19T00:32:36 IST" duration-ms="668" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchData -->
-        <test-method is-config="true" signature="taerdown()[pri:0, instance:testclasses.TC_004_SearchFunction@3b7ff809]" started-at="2026-01-19T00:12:34 IST" name="taerdown" finished-at="2026-01-19T00:12:37 IST" duration-ms="3215" status="PASS">
+        <test-method is-config="true" signature="taerdown()[pri:0, instance:testclasses.TC_004_SearchFunction@fb9c7aa]" started-at="2026-01-19T00:32:36 IST" name="taerdown" finished-at="2026-01-19T00:32:39 IST" duration-ms="3262" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- taerdown -->

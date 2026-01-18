@@ -11,12 +11,17 @@
     <groups>
 <run>
 <include name="Master"></include>
+<include name="Sanity"></include>
 <!--include- name="Regression"></!-include-->
 </run>
 </groups>
     <classes>
       <class name="testclasses.TC_001_Account_registration"/>
       <class name="testclasses.TC_002_Login_validAccount" />
+       <class name="testclasses.TC_004_SearchFunction"/>
+       <class name="testclasses.TC_005_compare_the_product_1"/>
+       
+      
   
     </classes>
   </test> <!-- Test -->
